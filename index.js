@@ -12,7 +12,10 @@ function theBeatlesPlay(musicians, instruments){
 
 
 function johnLennonFacts(facts){
-  while()
+  let i=0
+  while(i<facts.length){
+    
+  }
 }
 
 2. Create a function `johnLennonFacts`. 
