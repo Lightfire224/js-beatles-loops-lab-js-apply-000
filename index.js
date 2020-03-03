@@ -21,3 +21,9 @@ function johnLennonFacts(facts){
   return factsArray
 }
 johnLennonFacts(facts)
+
+
+function iLoveTheBeatles(number){
+  let loveArray = []
+  
+}
