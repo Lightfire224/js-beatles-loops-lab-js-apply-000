@@ -25,6 +25,6 @@ johnLennonFacts(facts)
 
 function iLoveTheBeatles(number){
   let loveArray = []
-  do{ love.a
-    
+  do{ 
+    loveArray.push("I love the Beatles!")
   } while()
